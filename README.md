@@ -10,5 +10,5 @@ I really can't stop coding...
 - 📽 Also does videography
 
 Want some stats?  
-![The0mikkel's GitHub stats](https://github-readme-stats.vercel.app/api?username=The0mikkel&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The0mikkel&langs_count=6)
+![The0mikkel's GitHub stats](https://github-readme-stats.vercel.app/api?username=The0mikkel&show_icons=true&theme=discord_old_blurple)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The0mikkel&langs_count=6&theme=discord_old_blurple)
