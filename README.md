@@ -11,4 +11,4 @@ I really can't stop coding...
 
 Want some stats?  
 ![The0mikkel's GitHub stats](https://github-readme-stats.vercel.app/api?username=The0mikkel&show_icons=true&theme=discord_old_blurple&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The0mikkel&langs_count=6&theme=discord_old_blurple&count_private=true)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The0mikkel&langs_count=6&theme=discord_old_blurple&count_private=true) -->
