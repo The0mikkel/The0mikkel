@@ -2,7 +2,7 @@
 
 I really can't stop coding...
 
-- 📚 A mostly self-thought developer
+- 📚 A mostly self taught developer
 - 👨‍🏫 Currently studying Software Engineering at SDU, Odense, Denmark
 - 🔧 Always working on something
 - ⌨ Mostly a PHP guy, but aint afraid of Java
