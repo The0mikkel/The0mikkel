@@ -5,7 +5,7 @@ I really can't stop coding...
 - 📚 A mostly self-taught developer and operations nerd
 - 👨‍🏫 Currently studying Software Engineering at SDU, Odense, Denmark
 - 🔧 Always working on something
-- ⌨ Mostly writing software and systems in PHP, Java, Python & Terraform
+- ⌨ Mostly writing software and systems in PHP, Java, Python, Typescript & Terraform
 - 💻 Has worked professionally with software for 3+ years
 - 📽 Also does videography
 
