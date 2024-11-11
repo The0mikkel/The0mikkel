@@ -2,11 +2,11 @@
 
 I really can't stop coding...
 
-- 📚 A mostly self taught developer
+- 📚 A mostly self-taught developer and operations nerd
 - 👨‍🏫 Currently studying Software Engineering at SDU, Odense, Denmark
 - 🔧 Always working on something
-- ⌨ Mostly a PHP guy, but aint afraid of Java
-- 💻 Working as a software developer
+- ⌨ Mostly writing software and systems in PHP, Java, Python & Terraform
+- 💻 Has worked professionally with software for 3+ years
 - 📽 Also does videography
 
 Want some stats?  
