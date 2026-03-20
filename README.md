@@ -2,13 +2,12 @@
 
 I really can't stop coding...
 
-- 📚 A mostly self-taught developer and operations nerd
+- 📚 A mostly self-taught developer and operations nerd - Loving everything Kubernetes and infrastructure
 - 👨‍🏫 Currently studying Software Engineering at SDU, Odense, Denmark
 - 🔧 Always working on something
-- ⌨ Mostly writing software and systems in PHP, Java, Python, Typescript & Terraform
+- ⌨ Mostly writing software and systems in PHP, Java, Go, Python, Typescript & Terraform
 - 🐱‍💻 Is part of the CTF team Brunnerne, and played national level cyber championship in Denmark
-- 💻 Has worked professionally with software for 3+ years
-- 📽 Also does videography
+- ✍ Specializing in DevOps, infrastructure and large scale software projects with a software engineering perspective
 
 Want some stats?  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=the0mikkel&theme=discord_old_blurple&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  
